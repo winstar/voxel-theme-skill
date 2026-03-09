@@ -15,7 +15,7 @@ An [Antigravity](https://developers.google.com/gemini/antigravity) skill for bui
 
 ```bash
 # 1. Clone the skill
-git clone https://github.com/mayank1059/voxel-theme-skill.git .agent/skills/voxel-theme-skill
+git clone https://github.com/winstar/voxel-theme-skill.git .agent/skills/voxel-theme-skill
 
 # 2. Run one-command setup
 bash .agent/skills/voxel-theme-skill/boilerplate/setup.sh path/to/wordpress
@@ -140,4 +140,3 @@ MIT
 
 - [Voxel Theme](https://getvoxel.io/)
 - [Elementor](https://elementor.com/)
-- [Stitch Delivery Skill](https://github.com/mayank1059/stitch-delivery-skill)
